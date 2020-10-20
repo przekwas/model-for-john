@@ -1,0 +1,10 @@
+$theme-colors: (
+    'primary': #0091ea //Covalence Blue!  :D
+);
+
+.App-thicc {
+    border-bottom: 15px solid black;
+    border-radius: 5px;
+}
+
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
